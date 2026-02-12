@@ -48,7 +48,7 @@ This project includes a fully functional calculator with a Light and Dark theme 
 ---
 
 ## 📂 Project Structure
-
+```bash
 ├── component/
 │ ├── Calculator.jsx
 │ ├── Button.jsx
