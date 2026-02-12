@@ -47,6 +47,22 @@ This project includes a fully functional calculator with a Light and Dark theme 
 
 ---
 
+## 📂 Project Structure
+
+├── component/
+│ ├── Calculator.jsx
+│ ├── Button.jsx
+│ ├── NewButton.jsx
+│
+├── redux/
+│ ├── themeSlice.js
+│ ├── store.js
+│
+├── App.jsx
+├── main.jsx
+
+
+
 ## 📦 Installation
 
 ```bash
