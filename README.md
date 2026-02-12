@@ -1,17 +1,54 @@
-# React + Vite
+# 🧮 React Calculator with Light/Dark Mode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive calculator built using React.js and Redux Toolkit.  
+This project includes a fully functional calculator with a Light and Dark theme toggle using global state management.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Basic calculator operations (+, -, *, /, %)
+- AC (All Clear) and DEL (Delete) functionality
+- Light/Dark mode toggle
+- Global theme management using Redux Toolkit
+- Responsive UI using Tailwind CSS
+- Clean component-based architecture
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Calculator
+## 🛠️ Technologies Used
+
+- React.js (Functional Components)
+- Redux Toolkit
+- React-Redux
+- React Icons
+- Tailwind CSS
+- JavaScript (ES6+)
+- Vite
+
+---
+
+## 📂 Project Structure
+
+
+---
+
+## 🎯 Concepts Used
+
+- useState Hook
+- useSelector & useDispatch
+- Global State Management
+- Conditional Rendering
+- Props Drilling
+- Event Handling
+- Dynamic Styling
+- Array Mapping
+- Component Reusability
+
+---
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
